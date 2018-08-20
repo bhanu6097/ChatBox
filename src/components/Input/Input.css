@@ -1,0 +1,20 @@
+.input-container{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+}
+
+.input-box{
+    padding: 5px;
+    font-size: 14px;
+    width: 80%;
+}
+
+.input-btn{
+    padding: 5px;
+    font: 14px;
+    width: 20%;
+    background: blue;
+    color: #fff;
+}

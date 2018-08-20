@@ -1,0 +1,8 @@
+.user1{
+    display: flex;
+}
+
+.user2{
+    display: flex;
+    justify-content: flex-end;
+}
